@@ -89,7 +89,7 @@ philosophy: "Ship fast. Stay sharp. Let AI handle the syntax."
 
 <div align="center">
 
-<a href="https://x.com/mitokawaguchi">
+<a href="https://x.com/mi_it_">
   <img src="https://img.shields.io/badge/X / Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 &nbsp;
@@ -111,6 +111,6 @@ philosophy: "Ship fast. Stay sharp. Let AI handle the syntax."
 
 <br/><br/>
 
-<sub>TOKYO, JP · Brutalist Concrete Café · Built with Vibe Coding</sub>
+<sub>TOKYO, JP · Built with Vibe Coding</sub>
 
 </div>
