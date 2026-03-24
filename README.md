@@ -1,34 +1,23 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--   MITO — GitHub Profile README                           -->
-<!--   World: Brutalist Concrete Café                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
   <img src="./banner.gif" alt="MITO — VIBE CODER" width="100%"/>
 </div>
 
 <div align="center">
 
-<!-- Typing SVG -->
 <a href="https://github.com/mitokawaguchi">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=D4C5A9&background=0D0D0D00&center=true&vCenter=true&width=480&lines=Vibe+Coder;AI+Architect;Builder;Ship+fast.+Stay+sharp." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Badges -->
 <img src="https://komarev.com/ghpvc/?username=mitokawaguchi&style=flat-square&color=555555&label=VIEWS" />
 <img src="https://img.shields.io/github/followers/mitokawaguchi?style=flat-square&color=555555&label=FOLLOWERS" />
 
 </div>
 
-<br/>
+---
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  $ whoami                                                   │
-└─────────────────────────────────────────────────────────────┘
-```
+## 👤 whoami
 
 ```yaml
 handle:     "@mitokawaguchi"
@@ -41,13 +30,9 @@ philosophy: "Ship fast. Stay sharp. Let AI handle the syntax."
 > The human is the conductor — AI is the orchestra.
 > You shape the architecture. The machine handles the typing.
 
-<br/>
+---
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  $ cat /current/projects                                    │
-└─────────────────────────────────────────────────────────────┘
-```
+## 🚀 Current Projects
 
 | # | Project | Description | Stack |
 |:--|:--------|:------------|:------|
@@ -55,80 +40,42 @@ philosophy: "Ship fast. Stay sharp. Let AI handle the syntax."
 | **02** | **AI Stats** | Benchmark-weighted AI model scoring & monitoring | Custom Mito Score · Multi-benchmark |
 | **03** | **AI Response Dashboard** | LINE WORKS → AI draft pipeline with RAG approval | Next.js · Supabase · Vercel |
 
-<br/>
+---
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  $ ls /skills                                               │
-└─────────────────────────────────────────────────────────────┘
-```
+## 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark" title="Frontend" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=supabase,postgres,nodejs,python&theme=dark" title="Backend & DB" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=vercel,github,git,vscode&theme=dark" title="Infra & Tools" />
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark" />
+
+**Backend & DB**
+
+<img src="https://skillicons.dev/icons?i=supabase,postgres,nodejs,python&theme=dark" />
+
+**Infra & Tools**
+
+<img src="https://skillicons.dev/icons?i=vercel,github,git,vscode&theme=dark" />
 
 </div>
 
-<br/>
+---
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  $ stats --github                                           │
-└─────────────────────────────────────────────────────────────┘
-```
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mitokawaguchi&theme=dark&background=0d0d0d&border=333333&ring=d4c5a9&fire=d4c5a9&currStreakLabel=d4c5a9&sideLabels=666666&dates=555555&stroke=333333" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mitokawaguchi&theme=dark&background=0d0d0d&border=333333&ring=d4c5a9&fire=d4c5a9&currStreakLabel=d4c5a9&sideLabels=666666&dates=555555" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api?username=mitokawaguchi&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=333333&title_color=d4c5a9&icon_color=d4c5a9&text_color=888888" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitokawaguchi&layout=compact&theme=dark&bg_color=0d0d0d&border_color=333333&title_color=d4c5a9&text_color=888888" width="49%" />
 
 </div>
 
-<br/>
+---
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  $ trophy --github                                          │
-└─────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mitokawaguchi&theme=darkhub&no-frame=true&column=7&margin-w=6" width="100%" />
-
-</div>
-
-<br/>
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  $ snake --contribution                                     │
-└─────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mitokawaguchi/mitokawaguchi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mitokawaguchi/mitokawaguchi/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/mitokawaguchi/mitokawaguchi/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br/>
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  $ cat /vision.md                                           │
-└─────────────────────────────────────────────────────────────┘
-```
+## 🗺 Vision
 
 ```
   2026 (NOW) ──── Major company transition
@@ -136,13 +83,9 @@ philosophy: "Ship fast. Stay sharp. Let AI handle the syntax."
   203X       ──── Build something that puts me on the map
 ```
 
-<br/>
+---
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  $ connect --social                                         │
-└─────────────────────────────────────────────────────────────┘
-```
+## 🔗 Connect
 
 <div align="center">
 
@@ -160,15 +103,14 @@ philosophy: "Ship fast. Stay sharp. Let AI handle the syntax."
 
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" />
-</div>
 
-<br/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" />
 
-<!-- ─────────────────────────────────────────────────────────── -->
-<div align="center">
-  <sub>TOKYO, JP · Brutalist Concrete Café · Built with Vibe Coding</sub>
+<br/><br/>
+
+<sub>TOKYO, JP · Brutalist Concrete Café · Built with Vibe Coding</sub>
+
 </div>
